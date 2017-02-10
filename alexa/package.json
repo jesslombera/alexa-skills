@@ -1,0 +1,17 @@
+{
+  "name": "alexa",
+  "version": "0.0.0",
+  "description": "Service",
+  "author": "jesslombera <jesstlombera@gmail.com>",
+  "main": "f/main/index.js",
+  "dependencies": {
+    "lib": "^2.0.0"
+  },
+  "private": true,
+  "stdlib": {
+    "name": "jesslombera/alexa",
+    "defaultFunction": "main",
+    "timeout": 10000,
+    "publish": false
+  }
+}
